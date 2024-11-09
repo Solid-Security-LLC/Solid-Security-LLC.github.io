@@ -273,6 +273,10 @@ h6,
     transition: .5s;
 }
 
+.modal-title {
+    color: var(--primary) !important;
+}
+
 .service-item:hover .service-icon {
     color: var(--primary);
     background: url(../img/icon-shape-white.png);
